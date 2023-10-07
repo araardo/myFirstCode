@@ -1,3 +1,3 @@
 # myFirstCodemy
-my first tutorial /n
+// my first tutorial \n
 hello odin!
